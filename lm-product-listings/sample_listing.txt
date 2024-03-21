@@ -1,0 +1,24 @@
+Equipment Description
+The 1-1/2" RF 316SS Emerson Micro Motion Elite Coriolis Meter is a pinnacle in the field of flow measurement technology, designed for a wide array of demanding applications across various industries. With its robust stainless steel construction and advanced measurement capabilities, this Coriolis meter is integral for those who require the utmost in accuracy and reliability.
+
+Product Highlights for Procurement Specialists:
+
+- Wide Flow Range: The 1-1/2" Micro Motion Elite coriolis has a nominal flow rate of 119 gpm with a maximum flowrate of 237 gpm.
+
+- High Precision: Offers mass flow accuracy for liquids at ±0.10% of the rate and for gases at ±0.25%, ensuring precise control over production processes.
+
+- Temperature Versatility: With an ambient temperature rating from -40°C to 60°C and fluid temperature handling from -196°C to 204C, it can operate in extreme environments, which includes cryogenic applications.
+
+- Smart Meter Verification: This innovative technology guarantees real-time measurement integrity, a crucial aspect for maintaining consistent quality in critical industrial processes.
+
+- Wide Application Range: It is suitable for use in industries like oil and gas, pharmaceuticals, food and beverage, and chemical processing. Its hygienic and cryogenic application capabilities make it versatile and essential for a diverse range of operational settings.
+
+- Industry Compliant: The meter comes with a comprehensive range of approvals and certifications, including UL, CSA, IECEx, NEPSI, ATEX, ensuring it meets global standards for safety and quality.
+
+- Durable and Robust: The design is optimized for minimal pressure loss, and it features a modular electronics concept, allowing for easy replacement and maintenance.
+
+- Communication and Connectivity: Supports HART and RTU485 communication protocols, facilitating easy integration into existing systems.
+
+- Scalable Solution: With options available in various materials like 316L Stainless Steel, C-22 nickel alloy, and super-duplex, it allows for customization based on specific application needs.
+
+Manufactured in 2019, the Emerson Micro Motion Elite Coriolis Meter, including the transmitter, represents a combination of state-of-the-art technology and value for procurement professionals looking for reliable, long-term flow measurement solutions.
