@@ -4,7 +4,7 @@ This example demonstrates the base functionality of our project: generating prod
 
 *Expected input:*
 - Product information: [product_information.json](product_information.json)
-- Raw Internet Scraped Data: [raw_internet_data.json](raw_internet_data.json)
+- Scraped data: [raw_internet_data.json](raw_internet_data.json)
 
 *Expected output:*
 - Product listing: [sample_listing.txt](sample_listing.txt)
